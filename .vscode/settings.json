@@ -1,0 +1,10 @@
+{
+    "VsCodeTaskButtons.showCounter": true,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "$(notebook-move-down) Build",
+            "task": "Build Godot Windows",
+            "tooltip": "Build Godot for Windows"
+        }
+    ]
+}
